@@ -12,4 +12,20 @@ This Python script demonstrates a simple keylogger implementation using the pynp
 
 <h2>How to Use</h2>
 
-`git clone `
+`git clone https://github.com/BlackSheep47/Basic-Python-Keylogger.git`<br>
+
+`cd cd Basic-Python-Keylogger`
+
+<h3>Kali</h3>
+
+`python3 Keylogger.py`
+
+<h3>Windows</h3>
+
+`python Keylogger.py`
+
+>[!Note]
+>This code should be used only for ethical and legal purposes, such as cybersecurity research or authorized testing.
+>Unauthorized use of a keylogger can violate laws and privacy rights. Always ensure you have explicit consent.
+
+
